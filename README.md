@@ -1,1 +1,1 @@
-# hyprland-darb
+# hyprland
