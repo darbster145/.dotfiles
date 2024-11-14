@@ -142,7 +142,8 @@
         "format-linked": " {ifname} (No IP)",
         "format-disconnected": "⚠ Disconnected",
         "format-alt": "{ifname}: {ipaddr}/{cidr}",
-        "tooltip": false
+        "tooltip": false,
+	"on-click": "nm-applet"
     },
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
