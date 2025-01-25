@@ -52,6 +52,11 @@ on-focus-changed = "move-mouse window-lazy-center"
 #                 In this example, 24 is a default value when there is no match.
 #                 Monitor pattern is the same as for 'workspace-to-monitor-force-assignment'.
 #                 See: https://nikitabobko.github.io/AeroSpace/guide#assign-workspaces-to-monitors
+
+[workspace-to-monitor-force-assignment]
+9 = 1
+10 = 3
+
 [gaps]
 inner.horizontal = 10
 inner.vertical =   10
