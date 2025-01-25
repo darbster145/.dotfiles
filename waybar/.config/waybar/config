@@ -25,10 +25,9 @@
     // "hyprland/mode": {
     //     "format": "<span style=\"italic\">{}</span>"
     // },
-    "hyprland/workspaces": {
-        
+    "wlr/workspaces": {
         "sort-by-number": true,
-        "format": "{icon}",
+        "format": "{name}: {icon}",
         "on-click": "activate",
         "format-icons": {
             "1": "1",
