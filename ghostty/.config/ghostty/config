@@ -1,2 +1,12 @@
-# Theme
+### Theme ###
 theme = tokyonight_night
+
+### Fonts ###
+font-family = fira-code
+font-size = 14 
+
+### Blur & Transparency ###
+background-opacity = .8
+background-blur-radius = 20 # Only works on macOS
+
+
