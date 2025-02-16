@@ -1,3 +1,6 @@
+shell-integration = detect
+confirm-close-surface = true
+
 ### Theme ###
 theme = tokyonight_night
 
@@ -7,6 +10,5 @@ font-size = 14
 
 ### Blur & Transparency ###
 background-opacity = .8
-background-blur-radius = 20 # Only works on macOS
 
 
