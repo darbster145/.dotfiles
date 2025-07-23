@@ -2,13 +2,14 @@ shell-integration = detect
 confirm-close-surface = true
 
 ### Theme ###
-theme = tokyonight_night
+theme = tokyonight
 
 ### Fonts ###
-font-family = fira-code
-font-size = 14 
+font-family = FiraMono Nerd Font Mono
+font-size = 16
 
 ### Blur & Transparency ###
-background-opacity = .8
+background-opacity = .95
+background-blur = 50
 
 
