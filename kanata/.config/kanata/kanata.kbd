@@ -10,6 +10,7 @@
 (defsrc
   a s d f
   j k l ;
+  f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12
 )
 
 (defalias
@@ -28,5 +29,5 @@
 (deflayer base
   @a-mod @s-mod @d-mod @f-mod
   @j-mod @k-mod @l-mod @;-mod
+  brdn brup _    _    _    _    _    _    _    mute vold volu
 )
-
