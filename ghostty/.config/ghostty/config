@@ -9,7 +9,7 @@ font-family = FiraMono Nerd Font Mono
 font-size = 16
 
 ### Blur & Transparency ###
-background-opacity = .95
+#background-opacity = .95
 background-blur = 50
 
 
