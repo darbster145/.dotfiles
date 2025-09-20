@@ -2,7 +2,7 @@ shell-integration = detect
 confirm-close-surface = true
 
 ### Theme ###
-theme = tokyonight
+theme = TokyoNight
 
 ### Fonts ###
 font-family = FiraMono Nerd Font Mono
