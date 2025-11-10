@@ -2,7 +2,7 @@ shell-integration = detect
 confirm-close-surface = true
 
 ### Theme ###
-theme = TokyoNight
+theme = TokyoNight Moon
 
 ### Fonts ###
 font-family = FiraMono Nerd Font Mono
@@ -10,6 +10,6 @@ font-size = 16
 
 ### Blur & Transparency ###
 #background-opacity = .95
-background-blur = 50
+#background-blur = 50
 
 
